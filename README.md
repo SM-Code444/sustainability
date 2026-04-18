@@ -1,2 +1,1 @@
 # sustainability
-print("Hello World")
